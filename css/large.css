@@ -1,0 +1,7 @@
+.flex-item {
+    width: 20%;
+}
+
+.flex-continer {
+    justify-content: space-around;
+}

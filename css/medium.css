@@ -1,0 +1,8 @@
+.flex-item {
+    width: 40%;
+    margin-bottom: 60px;
+}
+
+.flex-continer {
+    justify-content: space-evenly;
+}

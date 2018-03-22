@@ -1,0 +1,15 @@
+img {
+    width: 100%;
+}
+
+.flex-item  p {
+    display: none;
+}
+
+.head-flex img {
+    display: none;   
+}
+
+.flex-item {
+    height:250px;
+}
