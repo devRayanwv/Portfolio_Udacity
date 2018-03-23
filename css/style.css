@@ -50,7 +50,6 @@ p {
 .flex-item {
     border: 1px solid #7d97ad;
     display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     height:400px;
     padding: 10px;
